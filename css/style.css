@@ -1,0 +1,100 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+.Navbar {
+  width: 375px;
+  height: auto;
+}
+
+h2 {
+  font-family: Scada, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 19px;
+  line-height: normal;
+  color: #444444;
+}
+
+p1 {
+  font-family: Scada, sans-serif;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: normal;
+  text-transform: uppercase;
+  color: #41D956;
+}
+
+p {
+  font-family: Scada, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  margin-right: 10px;
+  line-height: normal;
+  text-align: right;
+}
+
+p2 {
+  font-family: Scada, sans-serif;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: normal;
+  text-transform: uppercase;
+  color: #FF2D55;
+}
+
+.information {
+  width: 375px;
+  height: 60px;
+  left: 0px;
+  border-top: 1px solid gray;
+  border-left: none;
+  border-right: none;
+}
+
+.information div {
+display: inline-block;
+padding-top: 2px;
+border-left: 2px;
+vertical-align: middle;
+}
+
+.column-left {
+  float: left;
+  margin: 7px;
+  background-color: #D94169;
+  border-radius: 10px;
+  font-family: Scada, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  color: #ffffff;
+  font-size: 20px;
+  line-height: 45px;
+  text-align: center;
+  width: 52px;
+  height: 45px;
+  left: 14px;
+  top: 339px;
+}
+
+.column-center {
+  margin-top: 7px;
+  margin-left: 3px;
+  width: 60%;
+  height: 30px;
+  font-family: Saada, sans-serif;
+  line-height: 20px;
+  font-size: 20px;
+  text-align: left;
+}
+
+.column-right {
+  float: center;
+  width: 20%;
+  height: 30px;
+  margin-top: 7px;
+  font-family: Saada, sans-serif;
+  margin-right: 0px;
+  text-align: right;
+}
