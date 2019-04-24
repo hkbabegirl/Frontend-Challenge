@@ -57,7 +57,7 @@ header {
   height: auto;
 }
 
-h2 {
+.h2 {
   font-family: 'Scada', sans-serif;
   font-style: normal;
   font-weight: normal;
@@ -66,7 +66,7 @@ h2 {
   color: #444444;
 }
 
-h3 {
+.h3 {
   font-family: 'Scada', sans-serif;
   font-style: normal;
   font-weight: normal;
@@ -76,7 +76,7 @@ h3 {
   color: #444444;
 }
 
-h4 {
+.h4 {
   font-family: 'Scada', sans-serif;
   font-style: normal;
   font-weight: normal;
@@ -86,7 +86,7 @@ h4 {
   color: #444444;
 }
 
-p1 {
+.p1 {
   font-family: 'Scada', sans-serif;
   font-weight: bold;
   font-size: 15px;
@@ -95,7 +95,7 @@ p1 {
   color: #00DE3D;
 }
 
-p {
+.p {
   font-family: 'Scada', sans-serif;
   font-style: normal;
   font-weight: normal;
@@ -105,7 +105,7 @@ p {
   text-align: right;
 }
 
-p2 {
+.p2 {
   font-family: 'Scada', sans-serif;
   font-weight: bold;
   font-size: 15px;
